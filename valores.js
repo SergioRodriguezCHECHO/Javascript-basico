@@ -1,4 +1,4 @@
-"valores primitivos"
+//"valores primitivos"
 
 40
 
@@ -10,7 +10,7 @@ false
 null
 undefined
 
-"valores tipo objeto"
+//"valores tipo objeto"
 
 [1,2,3]
 { nombre:"Sergio" } 
